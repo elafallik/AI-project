@@ -1,2 +1,2 @@
 # AI-project
-Final project of the "67842 INTRODUCTION TO ARTIFICIAL INTELLIGENCE" course at HUJI
+Final project for the "67842 INTRODUCTION TO ARTIFICIAL INTELLIGENCE" course at HUJI
