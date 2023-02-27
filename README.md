@@ -1,10 +1,10 @@
 # JohnChain
-Final project for the "67842 INTRODUCTION TO ARTIFICIAL INTELLIGENCE" course at HUJI
-See pdf for full details.
+	Final project for the "67842 INTRODUCTION TO ARTIFICIAL INTELLIGENCE" course at HUJI
+	See pdf for full details.
 
 
 ### Writers: 
-Ela Fallik, Liron Sade, Yoni Leibner, Shahaf Bassan
+	Ela Fallik, Liron Sade, Yoni Leibner, Shahaf Bassan
 
 
 
