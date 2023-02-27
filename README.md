@@ -1,5 +1,5 @@
 # JohnChain
-	Final project for the "67842 INTRODUCTION TO ARTIFICIAL INTELLIGENCE" course at HUJI
+	Final project for the "67842 INTRODUCTION TO ARTIFICIAL INTELLIGENCE" course at HUJI (Spring 2019)
 	See pdf for full details.
 
 
