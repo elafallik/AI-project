@@ -1,17 +1,18 @@
-#######################################################################################
-#
-# Writers: Ela Fallik, Liron Sade, Yoni Leibner, Shahaf Bassan
-#
-#######################################################################################
+# JohnChain
+Final project for the "67842 INTRODUCTION TO ARTIFICIAL INTELLIGENCE" course at HUJI
 
 
-Description:
+### Writers: 
+Ela Fallik, Liron Sade, Yoni Leibner, Shahaf Bassan
+
+
+
+### Description:
     This project aims to generate a human-like jazz improvisation using existing jazz melodies.
 
-#######################################################################################
 
 
-Files:
+### Files:
     runModel.py - Driver for our software.
     learn.py - Learns the notes
     Player.py - Interface for the notes and the rhythms.
@@ -23,10 +24,9 @@ Files:
     Makefile
     README
 
-#######################################################################################
 
 
-API:
+### API:
 
 The setup of the model:
 Create Player objects, with the following params: 
